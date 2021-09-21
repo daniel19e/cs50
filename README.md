@@ -1,2 +1,2 @@
 # CS50 Harvard Computer Science 
-Online course  all problem sets
+All problem sets from the free online course offered by Harvard
